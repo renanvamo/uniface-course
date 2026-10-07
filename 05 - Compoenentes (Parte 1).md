@@ -120,3 +120,5 @@ endvariables
 end
 
 # 5.8 Tarefa 6
+
+Criado novo componente com dropdown list, teste com trigger com campo em string literal
