@@ -45,5 +45,17 @@ Criada tabela com relacionamento e compilado
 # 3.5 Criando script relacionamento uf_municipio
 
 /gensql createTable vend_uf.vend sle c:\uniface\vend_uf.sql
+ou
+/gensql createTable *.vend sle c:\uniface\vend.sql
 
 sle = drive sqlite
+
+# 3.6 Tarefa 03 
+
+Tabelas criadas em DB Browser for SQLite
+
+Arquivos gerados ficam em:
+C:\uniface\vend_uf.vend
+
+criei arquivo que vai conter o db e os dados em SQLite
+C:\Users\Suporte\Rocket Uniface 10 Community Edition\project\dbms\userdata.db
